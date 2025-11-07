@@ -1,9 +1,2 @@
-fastapi
-uvicorn
-pillow
-numpy
-torch
-torchvision
-timm
 flask
 flask-cors
